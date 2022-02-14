@@ -78,11 +78,8 @@
   font-weight: 100;
 }
 .card--description {
-  font-family: "Courier New", Courier, monospace;
-  margin-top: 10px;
-  height: 75px;
-  white-space: pre-wrap;
-  overflow-y: auto;
+  font-family: "Consolas", Courier, monospace;
+  margin-top: 15px;
 }
 /* FOOTER */
 .footerCard {
